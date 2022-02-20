@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 first file
 added line two
+=======
+first file , modified this line from remote
+>>>>>>> afd563a4f986f2a308e4c18d60d1170e506f3ef9
